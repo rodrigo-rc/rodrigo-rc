@@ -1,7 +1,9 @@
-### Olá!  Eu sou o Rodrigo 🙂
-
+### Olá!  Eu sou o Rodrigo 👋😃
 - 🏡 Cidade/Estado: Florianópolis/SC
-- 💻 Estudante Programação
+- 💻 Apaixonado por tecnologia
+- 📚 Estudo na Labenu - Curso Web Full Stack - Turma Joy
+- ⏳ Estou me preparando para entrar no mercado de Desenvolvimento de Sistemas
+- 🏄🏻‍♂️ Quando não estou codando meu hobby é surfar
  <br> </br>
  
 
